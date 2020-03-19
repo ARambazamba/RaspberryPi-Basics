@@ -22,3 +22,27 @@ Choose your Language:
 ![setup-nukkit](_images/setup-nukkit.png)
 
 > Note: `Nukkit` is nuclear-powered server software for [Minecraft: Pocket Edition](https://github.com/NukkitX/Nukkit).
+
+# Configure Your Minecraft Server
+
+Edit Configuration:
+
+```
+sudo nano nukkit.yml
+```
+
+Paste the following Configuration & hit `CTRL+O` and the ENTER to write the file `nukkit.yml`
+
+```
+max-players=10
+pvp=on
+difficulty=1
+```
+
+> Note: A full list of properties is documented in the [Minecraft Pedia](https://minecraft.gamepedia.com/Server.properties)
+
+Now you can start the Minecraft Server:
+
+```
+sudo java -jar nukkit.jar
+```
