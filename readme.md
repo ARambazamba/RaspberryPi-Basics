@@ -11,4 +11,4 @@ An introduction to Raspberry PI for David the Coolman to learn using Raspi & Lin
 
 ## Extending
 
-If you want to extend this documentation feel free to fork, extend it and issue a pull request. We recommend using [GitFlow](https://danielkummer.github.io/git-flow-cheatsheet/)
+If you want to extend this documentation feel free to fork, extend it using a folder, update toc and issue a pull request. We recommend using [GitFlow](https://danielkummer.github.io/git-flow-cheatsheet/)
