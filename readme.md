@@ -1,4 +1,4 @@
-# Raspberry for Beginners
+# Raspberry Pi for Beginners
 
 An introduction to Raspberry PI for David the Coolman to learn using Raspi & Linux during the covid-19 crisis.
 
