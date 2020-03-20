@@ -4,10 +4,15 @@ An introduction to Raspberry PI initially created for David the Coolman to learn
 
 ## Contents
 
+1. Raspi
+
 - [Setup](Setup/readme.md)
 - [Install Docker](Docker/readme.md)
 - [Visual Studio Code](VSCode/readme.md)
 - [RPI-Monitor](RPI-Monitor/readme.md)
+
+2. Gaming
+
 - [Minecraft Game Server](Minecraft/readme.md)
 
 ## Extending
