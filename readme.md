@@ -4,7 +4,7 @@ An introduction to Raspberry PI initially created for David the Coolman to learn
 
 ## Table of Contents
 
-1. Raspi
+### Raspberry Pi Essentials
 
 A helpful list of basic Raspberry Pi Bash Commands can be found [here](https://www.elektormagazine.com/news/bash-command-cheat-sheet)
 
@@ -13,7 +13,7 @@ A helpful list of basic Raspberry Pi Bash Commands can be found [here](https://w
 - [Visual Studio Code](VSCode/readme.md)
 - [RPI-Monitor](RPI-Monitor/readme.md)
 
-2. Gaming
+### Gaming
 
 - [Minecraft Game Server](Minecraft/readme.md)
 
