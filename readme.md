@@ -6,12 +6,12 @@ An introduction to Raspberry PI initially created for David the Coolman to learn
 
 1. Raspi
 
+A helpful list of basic Raspberry Pi Bash Commands can be found [here](https://www.elektormagazine.com/news/bash-command-cheat-sheet)
+
 - [Setup](Setup/readme.md)
 - [Install Docker](Docker/readme.md)
 - [Visual Studio Code](VSCode/readme.md)
 - [RPI-Monitor](RPI-Monitor/readme.md)
-
-  > Note: [Raspberry Pi Bash Command Cheat Sheet](https://www.elektormagazine.com/news/bash-command-cheat-sheet)
 
 2. Gaming
 
