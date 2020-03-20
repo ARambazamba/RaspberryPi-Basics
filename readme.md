@@ -6,7 +6,8 @@ An introduction to Raspberry PI initially created for David the Coolman to learn
 
 - [Setup](Setup/readme.md)
 - [Install Docker](Docker/readme.md)
-  <!-- - [Install Node.js](Node/readme.md) -->
+- [Visual Studio Code](VSCode/readme.md)
+- [RPI-Monitor](RPI-Monitor/readme.md)
 - [Minecraft Game Server](Minecraft/readme.md)
 
 ## Extending
