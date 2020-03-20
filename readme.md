@@ -11,7 +11,7 @@ An introduction to Raspberry PI initially created for David the Coolman to learn
 - [Visual Studio Code](VSCode/readme.md)
 - [RPI-Monitor](RPI-Monitor/readme.md)
 
-[Raspberry Pi Bash Command Cheat Sheet](https://www.elektormagazine.com/news/bash-command-cheat-sheet)
+  > Note: [Raspberry Pi Bash Command Cheat Sheet](https://www.elektormagazine.com/news/bash-command-cheat-sheet)
 
 2. Gaming
 
