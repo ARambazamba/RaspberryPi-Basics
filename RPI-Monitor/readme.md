@@ -29,3 +29,5 @@ sudo /etc/init.d/rpimonitor update
 ```
 
 RPi-Monitor is designed to start automatically and collect metrics. The web interface is available on address `http://raspberrypi.local:8888`.
+
+[Futher Reading](https://xavierberger.github.io/RPi-Monitor-docs/11_installation.html)

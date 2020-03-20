@@ -2,7 +2,7 @@
 
 An introduction to Raspberry PI initially created for David the Coolman to learn using Raspi & Linux during the covid-19 crisis.
 
-## Contents
+## Table of Contents
 
 1. Raspi
 
@@ -10,6 +10,8 @@ An introduction to Raspberry PI initially created for David the Coolman to learn
 - [Install Docker](Docker/readme.md)
 - [Visual Studio Code](VSCode/readme.md)
 - [RPI-Monitor](RPI-Monitor/readme.md)
+
+[Raspberry Pi Bash Command Cheat Sheet](https://www.elektormagazine.com/news/bash-command-cheat-sheet)
 
 2. Gaming
 
