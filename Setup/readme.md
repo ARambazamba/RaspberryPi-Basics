@@ -42,6 +42,8 @@ Configure the raspi:
 sudo  raspi-config
 ```
 
+> Note: To install Ubuntu Server on the raspi follow this [guide](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview)
+
 ### Connect to the WiFi
 
 Connect the raspi to your local wifi:
@@ -94,3 +96,11 @@ Connect to raspi from your Windows Client:
 ![rdp-finish](_images/rdp-finish.png)
 
 Congratulations David! You have now completed the first lecture!
+
+## IP Address Management
+
+Release IP:
+
+```
+sudo dhclient -v -r
+```
