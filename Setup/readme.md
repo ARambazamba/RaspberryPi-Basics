@@ -28,9 +28,9 @@ Next you need to find the IP Address of your Raspberry using [Advanced IP Scanne
 
 Install the SSH Client [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) or use the SSH Client provided by your Remote Client OS.
 
-Connect to the Raspberry:
+Connect to the Raspberry using Windows Command Shell (Windows + R -> CMD)
 
-```
+```bash
 ssh pi@raspberrypi
 ```
 
@@ -46,7 +46,7 @@ sudo  raspi-config
 
 ### Connect to the WiFi
 
-Connect the raspi to your local wifi:
+Connect the raspi to your local wifi - you will need your Network SSID and the password:
 
 ![wifi-1](_images/wifi-1.png)
 
@@ -97,7 +97,7 @@ Connect to raspi from your Windows Client:
 
 Congratulations David! You have now completed the first lecture!
 
-## IP Address Management
+## Optional - IP Address Management
 
 Release IP:
 
