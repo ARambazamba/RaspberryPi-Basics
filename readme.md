@@ -2,6 +2,8 @@
 
 This introduction was initially created for David the Coolman to learn using Raspi & Linux during the covid-19 crisis. It was then extended with other topics that came up.
 
+---
+
 ## Table of Contents
 
 ### Tooling
