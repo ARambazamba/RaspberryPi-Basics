@@ -20,7 +20,7 @@ Connect to the raspi using a network cable.
 
 After completion add a blank file with the name `ssh` without any extension. This file will be deleted after you have established the first connection.
 
-Next you need to find the IP Address of your Raspberry using [Advanced IP Scanner](https://www.advanced-ip-scanner.com/de/) or the DHCP table of your router
+The default Newtwork Name of the raspi is `raspberrypi`. If you want to find the IP Address of your Raspberry you could use a network scanner like [Advanced IP Scanner](https://www.advanced-ip-scanner.com/de/) or the DHCP table of your router
 
 ![ipscan](_images/network-scan.png)
 
