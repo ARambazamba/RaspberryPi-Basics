@@ -1,6 +1,6 @@
 # Raspberry Pi for Beginners
 
-An introduction to Raspberry PI initially created for David the Coolman to learn using Raspi & Linux during the covid-19 crisis.
+This introduction was initially created for David the Coolman to learn using Raspi & Linux during the covid-19 crisis. It was then extended with other topics that came up.
 
 ## Table of Contents
 
@@ -11,6 +11,8 @@ An introduction to Raspberry PI initially created for David the Coolman to learn
 - [Git / Github](Github/readme.md)
 - [Windows 10 Keyboard Shortcuts](https://support.microsoft.com/de-at/help/12445)
 
+---
+
 ### Raspberry Pi Essentials
 
 Please find a helpful list of basic [Linux Raspberry Pi Bash Commands](https://www.elektormagazine.com/news/bash-command-cheat-sheet).
@@ -19,9 +21,11 @@ Please find a helpful list of basic [Linux Raspberry Pi Bash Commands](https://w
 - [Install Docker](Docker/readme.md)
 - [RPI-Monitor](RPI-Monitor/readme.md)
 
-### Gaming
+#### Gaming
 
 - [Minecraft Game Server](Minecraft/readme.md)
+
+---
 
 ## Extending
 
