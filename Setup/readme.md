@@ -95,8 +95,6 @@ Connect to raspi from your Windows Client:
 
 ![rdp-finish](_images/rdp-finish.png)
 
-Congratulations David! You have now completed the first lecture!
-
 ## Optional - IP Address Management
 
 Release IP:
