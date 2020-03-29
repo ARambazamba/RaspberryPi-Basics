@@ -9,10 +9,11 @@ An introduction to Raspberry PI initially created for David the Coolman to learn
 - [Visual Studio Code](VSCode/readme.md)
 - [Markdown](Markdown/readme.md)
 - [Git / Github](Github/readme.md)
+- [Windows 10 Keyboard Shortcuts](https://support.microsoft.com/de-at/help/12445)
 
 ### Raspberry Pi Essentials
 
-Please find a helpful list of basic [Linux Raspberry Pi Bash Commands](https://www.elektormagazine.com/news/bash-command-cheat-sheet) and [Windows 10 Keyboard Shortcuts](https://support.microsoft.com/de-at/help/12445).
+Please find a helpful list of basic [Linux Raspberry Pi Bash Commands](https://www.elektormagazine.com/news/bash-command-cheat-sheet).
 
 - [Setup](Setup/readme.md)
 - [Install Docker](Docker/readme.md)
