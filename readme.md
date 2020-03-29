@@ -6,11 +6,13 @@ An introduction to Raspberry PI initially created for David the Coolman to learn
 
 ### Raspberry Pi Essentials
 
-A helpful list of basic Raspberry Pi Bash Commands can be found [here](https://www.elektormagazine.com/news/bash-command-cheat-sheet)
+Please find a helpful list of basic [Linux Raspberry Pi Bash Commands](https://www.elektormagazine.com/news/bash-command-cheat-sheet) and [Windows 10 Keyboard Shortcuts](https://support.microsoft.com/de-at/help/12445).
 
 - [Setup](Setup/readme.md)
 - [Install Docker](Docker/readme.md)
 - [Visual Studio Code](VSCode/readme.md)
+- [Markdown](Markdown/readme.md)
+- [Git / Github](Github/readme.md)
 - [RPI-Monitor](RPI-Monitor/readme.md)
 
 ### Gaming

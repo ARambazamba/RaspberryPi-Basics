@@ -1,5 +1,7 @@
 # Visual Studio Code
 
+## Installation
+
 Install Visual Studio Code:
 
 ```
@@ -12,3 +14,9 @@ You can start VS Code from the Terminal using:
 ```
 code-oss .
 ```
+
+## VS Code Tips & Tricks
+
+[VS Code Tips & Tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
+
+[Useful VS Code Keyboard Shortcuts](https://zellwk.com/blog/useful-vscode-keyboard-shortcuts/)
