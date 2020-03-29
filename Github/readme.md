@@ -1,6 +1,16 @@
-# Github Essentials
+# Git & Github Essentials
 
-## Configuration
+Download [Git Bash](https://git-scm.com/downloads)
+
+## VSCode Extensions
+
+[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
+[Git Extensions for Windows](https://github.com/gitextensions/gitextensions)
+
+## Basic Commands
+
+### Configuration
 
 Set User and E-Mail
 
@@ -12,7 +22,7 @@ Unset Credentials
 
 `git config --global --unset credential.helper`
 
-## Basic Git Commands
+### Basic Git Commands
 
 Init Git: `git init`
 
@@ -24,7 +34,7 @@ Commit files: `git commit -m "your checkin comment"`
 
 Get a spcific Commit: `git checkout <sha1>`
 
-## Status & Updates
+### Status & Updates
 
 Show Commit logs: `git log`
 
@@ -32,7 +42,7 @@ Check for remote updates: `git remote update`
 
 Show Status (Adds/Delets/Changes): `git status`
 
-## Branching
+### Branching
 
 List Branches: `git branch`
 
@@ -44,13 +54,13 @@ Switch to Branch: `git checkout [name_of_your_branch]`
 
 Merge Branch: `git merge [branch_to_merge]`
 
-## Remotes
+### Remotes
 
 Adding Remotes: `git remote add origin https://github.com/try-git/try_git.git`
 
 Pull / Push from / to repository: `git pull / git push`
 
-## Tags
+### Tags
 
 Create Lightweight tag : `git tag -l v1.1.0`
 
@@ -66,11 +76,11 @@ Delete tag: `git tag -d v2.0.1`
 
 Checkout tag: `git checkout 2.0.1`
 
-## Configure ignored files
+### Configure ignored files
 
 Add a `.gitignore` file to the root of your project. A valid `.gitignore` file can be generated at https://www.gitignore.io/
 
-## Refresh from Upstream
+### Refresh from Upstream
 
 Open Git Bash.
 
@@ -103,9 +113,3 @@ Fetch from Upstream:
 ```
  git fetch upstream
 ```
-
-# Extensions
-
-[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
-
-[Git Extensions for Windows](https://github.com/gitextensions/gitextensions)
