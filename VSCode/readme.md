@@ -24,3 +24,21 @@ You can start VS Code from the Terminal using:
 ```
 code-oss .
 ```
+
+### Install .NET 5 on Raspi
+
+Add the Microsoft package signing key to your list of trusted keys:
+
+```
+wget https://packages.microsoft.com/config/debian/10/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+sudo dpkg -i packages-microsoft-prod.deb
+```
+
+Install the SDK:
+
+```
+sudo apt-get update;
+sudo apt-get install -y apt-transport-https && \
+sudo apt-get update && \
+sudo apt-get install -y dotnet-sdk-5.0
+```
