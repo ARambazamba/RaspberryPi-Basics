@@ -20,7 +20,7 @@ Connect to the raspi using a network cable.
 
 After completion add a blank file with the name `ssh` without any extension. This file will be deleted after you have established the first connection.
 
-Next you need to find the IP Address of your Raspberry using [Advanced IP Scanner](https://www.advanced-ip-scanner.com/de/) or the DHCP table of your router
+The default Newtwork Name of the raspi is `raspberrypi`. If you want to find the IP Address of your Raspberry you could use a network scanner like [Advanced IP Scanner](https://www.advanced-ip-scanner.com/de/) or the DHCP table of your router
 
 ![ipscan](_images/network-scan.png)
 
@@ -28,9 +28,9 @@ Next you need to find the IP Address of your Raspberry using [Advanced IP Scanne
 
 Install the SSH Client [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) or use the SSH Client provided by your Remote Client OS.
 
-Connect to the Raspberry:
+Connect to the Raspberry using Windows Command Shell (Windows + R -> CMD)
 
-```
+```bash
 ssh pi@raspberrypi
 ```
 
@@ -42,9 +42,11 @@ Configure the raspi:
 sudo  raspi-config
 ```
 
+> Note: To install Ubuntu Server on the raspi follow this [guide](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview)
+
 ### Connect to the WiFi
 
-Connect the raspi to your local wifi:
+Connect the raspi to your local wifi - you will need your Network SSID and the password:
 
 ![wifi-1](_images/wifi-1.png)
 
@@ -93,4 +95,10 @@ Connect to raspi from your Windows Client:
 
 ![rdp-finish](_images/rdp-finish.png)
 
-Congratulations David! You have now completed the first lecture!
+## Optional - IP Address Management
+
+Release IP:
+
+```
+sudo dhclient -v -r
+```
