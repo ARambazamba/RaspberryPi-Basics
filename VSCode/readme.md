@@ -15,14 +15,14 @@ Download [VS Code](https://code.visualstudio.com/) and excute Setup
 ### Install Visual Studio Code on Raspi
 
 ```
-wget https://packagecloud.io/headmelted/codebuilds/gpgkey -O - | sudo apt-key add -
-curl -L https://raw.githubusercontent.com/headmelted/codebuilds/master/docs/installers/apt.sh | sudo bash
+sudo apt update
+sudo apt install code
 ```
 
 You can start VS Code from the Terminal using:
 
 ```
-code-oss .
+code .
 ```
 
 ### Install .NET 5 on Raspi
